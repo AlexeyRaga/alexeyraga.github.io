@@ -17,7 +17,7 @@ Sir Antony Hoare, speaking at QCon in 2009, apologised publicly for inventing nu
 
 Yet we are still dealing with null references, still paying the price. Some of us, developers, still deliberately return `null` from functions with the excuse that “null means that there is no value”, but let’s keep it for later.
 
-What is the problem with `null` anyway? The problem is that `null` is indistinguishable from a valid value. If there is “no value” then you can still use it was there, and compiler allows you to do it. Then you get `NullReferenceException`.
+What is the problem with `null` anyway? The problem is that `null` is indistinguishable from a valid value. If there is “no value” then you can still use it as it was there, and compiler allows you to do it. Then you get `NullReferenceException`.
 
 It gets much nastier when there are functions in the call chain implemented in a way of “Oh, I checked my input and I got `null`, but I don’t know what to do with `null` so I just return `null` myself”. Now when we get `NullReferenceException`, we don’t know who was responsible and what just happened.
 
