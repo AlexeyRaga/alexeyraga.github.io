@@ -72,7 +72,7 @@ Fluent interfaces in C# often involve, well, building interfaces, and functions 
 
 It is often not super complex, but it is complex enough to require making design decisions and careful implementation. It **is** more complex than being able to compose functions in a way we want and have the result. Couldn't we do just this?
 
-C# doesn't do carrying for us, nor partial application is possible. When you supply not enough arguments to the function you simply get a compilation error. But it is still possible to achieve the same compositional goals, although with a little bit of boilerplate:
+C# doesn't do carrying for us, nor partial application is possible. When you supply not enough arguments to the function you simply get a compilation error. But it is still possible to achieve the same compositional goals, although with a little bit of boilerplate (the good thing is that you write this boilerplate once and for all):
 
 {% gist alexeyraga/bc07a9ac731e054a35f8 2-Pipelines-CSharp-substitution.cs %}
 
