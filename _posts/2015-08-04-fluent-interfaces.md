@@ -60,7 +60,7 @@ Notice two things:
 1. `add5` is expressed in terms of `add` that is only provided with one argument (the second one is "missing").
 2. The result of `add 5` has type `int -> int` because `add` still needs another argument! So `add5` is a function from `int` to `int`.
 
-We used function `add` and kind of "fixed" its first argument to `5` so it will always add `5` to the remaining argument.  
+We used function `add` and kind of "fixed" its first argument to `5` so it will always adds `5` to the remaining argument.  
 `add5` is a **partially applied** `add`.
 
 This is exactly how the whole `latestRequest` works. Functions like `clickMenu` or `openFilter` are **partially applied**, and the remaining (last) argument is piped into them from the result of the "previous" function.  
