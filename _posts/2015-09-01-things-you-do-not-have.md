@@ -190,7 +190,7 @@ let buyAlcohol person =
 
 This example above is matching against the record type (as well as against our "wrapper" types such as `FirstName`).  
 The first pattern matches any person whose first name is "Mary".  
-The second one doesn't care about anything but the person's age, and it makes the age as `a`. The `when` guard guarantees that the pattern only matches if the person is older than 21.  
+The second one doesn't care about anything but the person's age, and it makes the age accessible as `a`. The `when` guard guarantees that the pattern only matches if the person is older than 21.  
 The last pattern matches any person at all. It just extracts person's first name into the value named `nm`, so it can be used in the result string.
 
 Pattern matching goes way beyond this, you can match against records, arrays, lists, tuples, types, unions, etc. You can have conditions for patterns to express that "it matches this shape, but only if that condition holds". You can even define your own patterns.  
