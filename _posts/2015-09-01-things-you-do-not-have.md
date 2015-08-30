@@ -209,6 +209,6 @@ For those I could advice: give F# a try. Do it not for the sake of learning anot
 
 F# offers, perhaps, everything that C# does, and it offers more. Someone said once that for a long time there was no feature introduced in C# language without a disclaimer of "and F# already can do it".
 
-Not falling into a trap of "I am comfortable with a Sledge Hammer", looking around and knowing your options is always beneficial **for pragmatic reasons**. The [Blub paradox](https://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)#The_Blub_paradox) is yet another trap to avoid, and knowing things we don't have could be just as important as knowing things we do have. It is because it gives us choice and lets us to be more efficient in what we do.
+Not falling into a trap of "I am comfortable with a Sledge Hammer", looking around and knowing your options is always beneficial **for pragmatic reasons**. The [Blub paradox](https://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)#The_Blub_paradox) is yet another trap to avoid, and knowing things we don't have could be just as important as knowing things we do have. It is because it gives us choice and lets us to be more efficient at what we do.
 
 Have a nice day. Use languages.
