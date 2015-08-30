@@ -9,7 +9,7 @@ However, there are many other things that particular language **does not** provi
 It is like early iPhone users who would say "who needs copy/paste on a phone, nonsense!". Right until this feature became available to them and they realised how useful it was.
 
 Now, why one would even look at another programming language?  
-One reason would be to escape from the [Blub paradox](https://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)#The_Blub_paradox) and to better understand your options.  
+One reason would be to escape from the [Blub paradox](https://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)#The_Blub_paradox) and to better understand his options.  
 Another reason is that a programming language is just a tool in your toolbox. No carpenter would ever say "I am comfortable with a Sledge Hammer so I don't even need to know about other options". That would probably be a silly thing to say. We, developers, are no different.  
 It is very pragmatic to know the options and then to be able to choose the most effective tool for the job rather than the most familiar one.
 
