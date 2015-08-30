@@ -203,7 +203,7 @@ In C# type inference pretty much ends with the `var` keyword and lambda function
 You still **can** specify types explicitly **if you want**, but it is not how people typically write F# code.
 
 ### Conclusion
-In this article I picked some of the features I really miss in C#. It is not a comprehensive list, and I only things from F# were listed, simply because I wanted to make this article more relevant for developers who want or have to stay in .NET ecosystem.  
+In this article I picked some of the features I really miss in C#. It is not a comprehensive list, and I only lister things from F#, simply because I wanted to make this article more relevant for developers who want or have to stay in .NET ecosystem.  
 
 For those I could advice: give F# a try. Do it not for the sake of learning another language, but for very pragmatic and result-oriented reasons: you write **much** less code, you write **much** simpler and trivial code, you write **much** less boilerplate and ceremony. And you still stay with .NET, so you don't change anything except the words you type in your IDE :)
 
