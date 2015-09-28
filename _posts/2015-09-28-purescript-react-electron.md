@@ -39,7 +39,7 @@ There are countless PureScript+React examples of how to increment a counter by c
 ### The example
 So I decided to build one :) The full source code can be found [on GitHub](https://goo.gl/hf73sp) and below I explain how it works.
 
-As I said, I wanted to build something working but yet short (~100 lines of code) and simple. It is a React application, so it should show how to create react components in PureScript and how to make them interact with each other.
+As I said, I wanted to build something working but yet short (~100 lines of code) and simple. It is a React application, so it should show how to create react components in PureScript and how to make them to interact with each other.
 
 I ended up building a very simple stock viewer:
 
