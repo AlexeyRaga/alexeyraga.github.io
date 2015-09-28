@@ -28,7 +28,7 @@ I also like how this [Little Pony](https://goo.gl/jzTc2R) game ([click to play o
 
 ### The problem
 Although there is a [free book about PureScript](https://goo.gl/DSxJZF) and a good [documentation search engine](http://pursuit.purescript.org/), and a helpful community, my biggest problem was to find good examples that I could use as a starting point.  
-Maybe it was also because I was learning not only PureScript, but also React and Electron, but my impression was mirroring this joke:
+Maybe it was partly because I was learning not only PureScript, but also React and Electron, but my impression was mirroring this joke:
 
 > 1 + 2 = 3. Here is how you do addition. 2 * 2 = 4. Here is how you do multiplication. Now, when you understand math, you can easily prove that this differential equation has only one solution...
 
